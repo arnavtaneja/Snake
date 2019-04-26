@@ -1,3 +1,3 @@
 # Snake
 
-Game of Snake with Score and High Score Tracker
+Classic [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) game in p5.js
